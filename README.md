@@ -82,9 +82,9 @@ PDF 파일에서 총 9,079개의 법률용어를 추출한 후, 이후 형태소
 
 다음과 같은 통계 분석을 수행합니다.
 
-- 다중선형회귀분석(Multiple Linear Regression)
-- 일원배치 분산분석(One-way ANOVA)
-- Tukey's HSD 사후검정(Tukey's Honestly Significant Difference Test)
+- 다중선형회귀분석
+- 일원배치 분산분석
+- Tukey's HSD 사후검정
 
 이를 통해 시험 급수 및 기타 분석 변수에 따른 명료성 차이를 검토합니다.
 
@@ -96,9 +96,9 @@ PDF 파일에서 총 9,079개의 법률용어를 추출한 후, 이후 형태소
 
 다음과 같은 통계 분석을 수행합니다.
 
-- 다중선형회귀분석(Multiple Linear Regression)
-- 일원배치 분산분석(One-way ANOVA)
-- Tukey's HSD 사후검정(Tukey's Honestly Significant Difference Test)
+- 다중선형회귀분석
+- 일원배치 분산분석
+- Tukey's HSD 사후검정
 
 이를 통해 시험 급수 및 기타 분석 변수에 따른 LTD 차이를 검토합니다.
 
